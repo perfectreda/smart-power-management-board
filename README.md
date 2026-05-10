@@ -167,13 +167,12 @@ A precision resistor divider scales the 18650 voltage range **(0–4.2V → 0–
 ## 📁 Project Structure
 
 ```
-SPMB/
-├── schematic/          # KiCad / EasyEDA source files
-├── pcb/                # Layout files, copper pours, DRC reports
-├── fabrication/        # Gerbers, drill files, BOM
-├── docs/
-│   └── README.md
-└── images/             # 3D renders, board photos
+Smart_Power_Management_Board/
+├── Block_Diagrame/     # System block diagrams
+├── Hardware/           # Hardware design files, BOM
+├── PCB/                # PCB layout pics
+├── Schematic/          # KiCad / EasyEDA schematic pdf file
+└── README.md
 ```
 
 ---
