@@ -1,0 +1,23 @@
+%TF.GenerationSoftware,KiCad,Pcbnew,10.0.1*%
+%TF.CreationDate,2026-05-10T02:07:07+01:00*%
+%TF.ProjectId,Smart Power Management Board.,536d6172-7420-4506-9f77-6572204d616e,rev?*%
+%TF.SameCoordinates,Original*%
+%TF.FileFunction,Profile,NP*%
+%FSLAX46Y46*%
+G04 Gerber Fmt 4.6, Leading zero omitted, Abs format (unit mm)*
+G04 Created by KiCad (PCBNEW 10.0.1) date 2026-05-10 02:07:07*
+%MOMM*%
+%LPD*%
+G01*
+G04 APERTURE LIST*
+%TA.AperFunction,Profile*%
+%ADD10C,0.050000*%
+%TD*%
+G04 APERTURE END LIST*
+D10*
+X107247500Y-54775000D02*
+X174000000Y-54775000D01*
+X174000000Y-110250000D01*
+X107247500Y-110250000D01*
+X107247500Y-54775000D01*
+M02*
